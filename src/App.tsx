@@ -105,6 +105,7 @@ function App() {
 
   const checkCompletion = () => {
     if (clearedCards.length === cardAr.length) {
+      setTimeoutMsg(false);
       setShowModal(true);
     }
   };

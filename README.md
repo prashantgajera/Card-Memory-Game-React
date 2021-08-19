@@ -19,3 +19,10 @@ Its a mini memory game in which user can pick two cards at a time and if both ar
 -	The game ends when the last pair is revealed or when the time runs out.
 -	The remaining seconds is considered to be the user score and will be displayed at the end with a “Play again” button.
 
+
+
+
+#Screens:  
+
+
+

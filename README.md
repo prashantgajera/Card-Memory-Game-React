@@ -6,7 +6,7 @@ Its a mini memory game in which user can pick two cards at a time and if both ar
 -	The landing page will display a grid (4x4) of cards initially laid face down. 
 -	Each card hides an image that can be revealed by clicking on the card.
 -	The grid has unique pairs of distinct images (8 pairs for a 4x4 grid).
--	Images should display avatars provided by [dicebear http API](https://avatars.dicebear.com/docs/http-api). 
+-	Images are display avatars provided by [dicebear http API](https://avatars.dicebear.com/docs/http-api). 
 
     Example:
     ``` html
@@ -23,6 +23,12 @@ Its a mini memory game in which user can pick two cards at a time and if both ar
 
 
 #Screens:  
+
+![Screenshot from 2021-08-19 22-29-01](https://user-images.githubusercontent.com/26285666/130113549-9e0166ef-1e20-47a1-80a5-5048280931ac.png)
+
+
+![Screenshot from 2021-08-19 22-28-47](https://user-images.githubusercontent.com/26285666/130113587-91d23952-489e-48ab-a702-c37eda314845.png)
+
 
 
 
